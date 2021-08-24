@@ -1,5 +1,10 @@
 <h1>Welcome to Space Station 13!</h1>
 
+THIS SERVER IS 18+!
+
+Skyrat Bay should be treated as a HRP-MRP server. For roleplaying enforcement purposes, please play on the bay server with the aim to be High Roleplay or HRP, even if our minimum requirement is MRP. This is to ensure people consistently stay above the roleplaying standards, even at their lowest points. Essentially, we want you to be MRP at your very worst, so that LRP is no longer an issue on the station.
+
+
 -<i>This server is running <a href="http://baystation12.net/">Baystation 12's</a> modification of the <a href="http://ss13.eu/">/tg/station13</a> SS13 code.</i>
 <br><br>
 <strong>Bugtracker:</strong> <a href="http://baystation12.net/forums/threads/issue-tracker-report-template.110/">for posting of bugs and issues.</a>
